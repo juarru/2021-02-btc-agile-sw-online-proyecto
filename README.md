@@ -15,7 +15,7 @@ Avísanos por el slack del curso.
 ## Información
 ```
 Nombre del proyecto : Parking-app
-Descripción: Aplicación que gestiona plazas de parking para una serie de usuarios. Habrá usuarios que tengan plaza fija y puedan liberarlo por días y usuarios que puedan solicitar plazas de manera puntual. Habrá un administrador que asignará plazas.
+Descripción: 
 Alumno: Juan Arillo Ruiz
 ```
 
@@ -71,5 +71,6 @@ Running tests	    npx jest
 
 ## Notas
 ```
-Ponga aquí cualquier tipo de mensaje necesario.
+Para el servicio API será necesario crear un fichero .env dentro de la carpeta api con el siguiente contenido:
+SERVER_PORT=3000
 ```
