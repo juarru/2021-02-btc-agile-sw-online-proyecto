@@ -14,9 +14,9 @@ Avísanos por el slack del curso.
 
 ## Información
 ```
-Nombre del proyecto :
-Descripción:
-Alumno:
+Nombre del proyecto : Parking-app
+Descripción: Aplicación que gestiona plazas de parking para una serie de usuarios. Habrá usuarios que tengan plaza fija y puedan liberarlo por días y usuarios que puedan solicitar plazas de manera puntual. Habrá un administrador que asignará plazas.
+Alumno: Juan Arillo Ruiz
 ```
 
 ## Instalación
