@@ -31,7 +31,7 @@ Alumno: Juan Arillo Ruiz
 ## Versiones
 | Alias | Version |
 | :-------: | :------: |
-| Visual Studio Code| 1.46   | 
+| Visual Studio Code| 1.74.2   | 
 | Jest | 26.0 |
 | Cypress.io | | 
 
